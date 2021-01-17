@@ -7,4 +7,4 @@ The CSV file contains rows in this format:
 
 This script was written as an optional add on to a CSCI-350 [Operating Systems] homework assignment for coding a CPU scheduler.
 
-I have included 3 example inputs [testX.txt] and 3 corresponding example outputs [graphX.pdf].
+Included are 3 example inputs [testX.txt] and 3 corresponding example outputs [graphX.pdf].
